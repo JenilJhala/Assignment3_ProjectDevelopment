@@ -1,0 +1,25 @@
+﻿@model IEnumerable<VehicleViewModel>
+
+<h2>Vehicle Inventory</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Make</td>
+                <td>@vehicle.Model</td>
+                <td>@vehicle.Year</td>
+                <td>@vehicle.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href='/Vehicles/Create' class="btn btn-success">Add New Vehicle</a>

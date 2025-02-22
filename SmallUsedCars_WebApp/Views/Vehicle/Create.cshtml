@@ -1,0 +1,18 @@
+﻿@model VehicleViewModel
+
+<h2>Add New Vehicle</h2>
+<form method="post">
+    <div>
+        <label>Make</label>
+        <input type="text" asp-for="Make" class="form-control" required />
+    </div>
+    <div>
+        <label>Model</label>
+        <input type="text" asp-for="Model" class="form-control" required />
+    </div>
+    <div>
+        <label>Year</label>
+        <input type="number" asp-for="Year" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Vehicle</button>
+</form>

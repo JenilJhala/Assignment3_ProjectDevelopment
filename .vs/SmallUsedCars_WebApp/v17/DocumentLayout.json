@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\views\\vehicle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\views\\vehicle\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\views\\vehicle\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\models\\vehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\models\\vehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\migrations\\20250214185209_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\migrations\\20250214185209_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\migrations\\20250214183208_fixidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\migrations\\20250214183208_fixidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|c:\\users\\jenil\\source\\repos\\smallusedcars_webapp\\smallusedcars_webapp\\migrations\\20250214181640_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A9ABB0-5671-4CDD-9B26-3D185842D863}|SmallUsedCars_WebApp\\SmallUsedCars_WebApp.csproj|solutionrelative:smallusedcars_webapp\\migrations\\20250214181640_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250214185209_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214185209_Identity.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Migrations\\20250214185209_Identity.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214185209_Identity.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Migrations\\20250214185209_Identity.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:52:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250214183208_FixIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214183208_FixIdentity.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Migrations\\20250214183208_FixIdentity.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214183208_FixIdentity.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Migrations\\20250214183208_FixIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:32:08.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250214181640_InitialIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214181640_InitialIdentity.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Migrations\\20250214181640_InitialIdentity.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Migrations\\20250214181640_InitialIdentity.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Migrations\\20250214181640_InitialIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:16:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:49:01.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\appsettings.json",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T01:55:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Vehicle\\Create.cshtml",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Views\\Vehicle\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Vehicle\\Create.cshtml",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Views\\Vehicle\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:46:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Vehicle\\List.cshtml",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Views\\Vehicle\\List.cshtml",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Vehicle\\List.cshtml",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Views\\Vehicle\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:46:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:45:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:45:33.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:41:05.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:32:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:32:07.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:47:51.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\VehicleViewModel.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Models\\VehicleViewModel.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Models\\VehicleViewModel.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Models\\VehicleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:39:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Entities\\Employee.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:14:03.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmallUsedCars_WebApp\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jenil\\source\\repos\\SmallUsedCars_WebApp\\SmallUsedCars_WebApp\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmallUsedCars_WebApp\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:01:00.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
